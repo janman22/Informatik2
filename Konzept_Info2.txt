@@ -1,0 +1,12 @@
+Konzept Informatik 2
+
+(a)Programmierung eines Spiels
+
+Die Prüfungsleistung soll die Programmierung des Kartenspiels "WIZRAD - das Spiel, was Sie in Rage bringt!" sein.
+Dabei liegt der Fokus bei der Programmierung auf der Funktionalität und der Intelligenz der Computergegner. Die Benutzeroberfläche soll die Mindestanforderungen erfüllen, um das Spiel spielen zu können.
+Das Spiel wird für 4 Spieler ausgelegt sein und man kann es allein gegen 3 Computer-Gegner spielen.
+
+Spielprinzip: (Quelle: https://www.amigo-spiele.de/spiel/wizard)
+"Vor langer, langer Zeit mussten die Zauberlehrlinge zur Übung ihrer magischen Fähigkeiten dieses Spiel erlernen, um die Gabe der Vorhersehung zu entwickeln. Gar nicht so einfach, wenn man nicht die Gabe der Prophezeiung besitzt. Ziel des Spiels ist, die meisten Punkte zu ergattern. Jeder Spieler muss die Anzahl seiner Stiche voraussagen, die er im Laufe des Spiels erhalten wird.
+
+In der ersten Runde erhalten die Spieler nur eine einzige Karte, in der nächsten Runde zwei Karten und so weiter, bis in der letzten Spielrunde alle Karten im Spiel sind. Wer seine Stiche am genauesten vorhersagt, erhält die meisten Punkte. Die erzielten Punkte werden auf dem Block der Wahrheit notiert und dieser gibt auch Aufschluss darüber, wer am Ende zum besten Magier gekürt wird."
